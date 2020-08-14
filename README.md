@@ -8,6 +8,7 @@ Languages in dataset :
 - 3780 (20,55%) English
 - 1991 (10,82%) Mixture of Indonesian and English
 - 251 (1,58%) Others
+
 Labels :
 
 - HS (hate speech)
@@ -22,20 +23,24 @@ Labels :
 - HS_Weak (Weak level hate speech)
 - HS_Moderate (Moderate level hate speech)
 - HS_Strong (Strong level hate speech)
+
 Classifier :
 
 - Support Vector Machines
 - Convolutional Neural Network
 - Convolutional Neural Network + DistilBERT
+
 Data Transformation :
 
 - Classifier chains
 - Label powerset
+
 Preprocessing :
 
 - Full preprocess
 - Without stopword removal
 - Without stemming and removal
+
 Overcome multilingual problem :
 
 - With translate
