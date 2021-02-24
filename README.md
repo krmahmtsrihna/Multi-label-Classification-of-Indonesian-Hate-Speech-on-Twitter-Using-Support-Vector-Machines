@@ -1,4 +1,8 @@
-# Multi-label-Classification-of-Indonesian-Hate-Speech-on-Twitter-Using-Support-Vector-Machines
+# Multi-label Classification of Indonesian Hate Speech on Twitter Using Support Vector Machines
+
+If you want to know more about this program you can read this paper : https://ieeexplore.ieee.org/document/9212992
+
+Don't forget to cite my paper if you use my code or data for your research or business.
 
 The dataset consists of 18396 tweets with 12 labels.
 
